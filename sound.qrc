@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/wav">
+        <file>dragonfly_anger_voice_5.wav</file>
+        <file>Frog_land_4.wav</file>
+        <file>GM_die_1.wav</file>
+        <file>kiki_bite_2.wav</file>
+    </qresource>
+</RCC>
